@@ -1,6 +1,6 @@
 */venv/
-/.env
-/package-lock.json
-/package.json
-npm
-node_modules
+# /.env
+# /package-lock.json
+# /package.json
+# npm
+# node_modules
